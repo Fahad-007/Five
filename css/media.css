@@ -1,0 +1,403 @@
+@media all and (max-width: 1100px){
+/**/
+	header{
+		height: 55px;
+	}
+	header img{
+		width:120px;
+	}
+	nav{
+		width: 85%;
+		height: 55px;
+	}
+	nav ul li{
+		margin: 20px;
+		font-size: 80%;
+	}
+	header span i{
+		width: 35px;
+		color: #424242;
+	}
+
+/**/
+	.main-div{
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.main-div div{
+		width: 29.333333%;
+		padding: 2%;
+	}
+	.first h1, h2{
+		font-size: 160%;
+	}
+	.main-div div .progress{
+		margin-bottom: 5px;
+	}
+	.progress h4{
+		font-size: 70%;
+	}
+
+/**/
+	.works-div{
+		padding: 50px 0;
+	}
+	.menu h1{
+		font-size: 160%;
+		padding-bottom: 6px;
+	}
+	.portfolio{	
+		padding: 5px 40px;
+	}
+/**/
+	.text h1{
+		font-size: 160%;
+		letter-spacing: 2px;
+	}
+
+/**/
+	.form-warp h1{
+		font-size: 160%;
+	}
+	.form-warp{
+		width: 40%;
+	}
+
+	.get-in-tuch{
+		background-color:white;
+		height: 100%;
+	}
+
+/**/
+	footer li{
+		list-style: none;
+		padding: 1px 0;
+	}
+	.footer-div{
+		width: 21%;
+		float: left;
+		padding: 2%;
+		color: white;
+	}
+	.footer-div img{
+		width: 80%;
+	}
+}
+
+
+
+
+
+
+@media all and (max-width: 790px){
+/**/
+	header{
+		height: 50px;
+	}
+	header img{
+		width:100px;
+	}
+	nav{
+		width: 100%;
+		height: 55px;
+		border-style: none;
+	}
+	nav ul li{
+		margin: 15px;
+		font-size: 75%;
+	}
+	header span{
+		display: none;
+	}
+
+/**/
+	.header-div h1{
+			font-size: 300%;
+		}
+		.header-div h2{
+			font-size: 300%;
+		}
+		.header-div p{
+			font-size: 80%;
+			letter-spacing: 2px;
+		}
+		.head-buttn{
+			width: 120PX;
+			height: 40PX;
+			margin: 15px;
+		}
+
+/**/
+
+	.main-div{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.first h1, h2{
+		font-size: 130%;
+	}
+
+/**/
+	.works-div{
+		padding: 40px 0;
+	}
+	.menu h1{
+		font-size: 140%;
+		padding-bottom: 6px;
+	}
+	.portfolio{	
+		padding: 5px 20px;
+	}
+	.menu ul li{
+		display: inline;
+		margin: 15px;
+		font-size: 80%;
+		
+	}
+/**/
+	.tree-div{
+		height: 250px;
+	}
+	.tree-div i{
+			font-size: 200%;
+		}
+		.tree-div h4{
+			padding: 10px;
+			font-size: 80%;
+			letter-spacing: 1px;
+		}
+		.tree-div p{
+			font-size: 70%;
+		}
+		.div-one{
+			height: 250px;
+		}
+
+/**/
+	.text{
+		padding: 30px;
+	}
+	.text h1{
+		font-size: 140%;
+		letter-spacing: 2px;
+	}
+	.text p{
+		font-size: 80%;
+	}
+
+/**/
+	.slider{
+		height: 60%;
+	}
+	.slider i{
+		font-size: 300%;
+
+	}
+	.slider p{
+		width: 350px;
+		font-size: 80%;
+	}
+/**/
+	.form-warp h1{
+		font-size: 140%;
+	}
+	.form-warp{
+		margin: 0 auto;
+		float: none;
+		padding-right: 0;
+	}
+	.map{
+		padding: 0;
+	}
+	.map1{display: none;}
+	.map2{
+		display: block;
+	}
+
+/**/
+	footer{
+		height: 55%;
+	}
+	footer li{
+		list-style: none;
+		padding: 1px 0;
+		font-size: 80%;
+	}
+	footer p{
+		font-size: 70%;
+	}
+	footer h3{
+		font-size: 80%;
+	}
+	.footer-div img{
+		width: 70%;
+	}
+}
+
+
+
+
+
+
+
+
+@media all and (max-width: 540px){
+/**/
+	header{
+		height: 50px;
+	}
+	nav{
+		display: none;
+	}
+
+/**/
+	.header-div h1{
+			font-size: 200%;
+		}
+		.header-div h2{
+			font-size: 200%;
+		}
+		.header-div p{
+			font-size: 70%;
+		}
+		.head-buttn{
+			width: 100PX;
+			height: 30PX;
+			margin: 10px;
+			font-size: 70%;
+		}
+
+/**/
+	.main-body{
+		height:700px;
+	}
+
+	.main-div{
+		padding-top: 30px;
+		padding-bottom: 30px;
+		flex-direction: column;
+		text-align: center;
+	}
+	.main-div div{
+		width: 100%;
+		padding:10px 0;
+	}
+	.first{
+		border-bottom: 1px solid black;
+	}
+	.seacond{
+		border-bottom: 1px solid black;
+	}
+
+	.first h1, h2{
+		font-size: 110%;
+	}
+
+
+/**/
+	.works-div{
+		padding: 20px 0;
+	}
+	.menu h1{
+		font-size: 110%;
+		padding-bottom: 6px;
+	}
+	.portfolio{	
+		padding: 0;
+	}
+	.portfolio img{
+		padding: 2px 0;
+		box-shadow: 0 0 3px 1px black;
+	}
+	.menu ul li{
+		display: inline;
+		margin: 10px;
+		font-size: 70%;
+	}
+	.port-one{
+		width: 100%;
+		float: none;
+		padding: 0;
+	}
+/**/
+	.tree-div{
+		height: 750px;
+	}
+	.tree-div i{
+			font-size: 300%;
+		}
+		.tree-div h4{
+			padding: 10px;
+			font-size: 80%;
+			letter-spacing: 1px;
+		}
+		.tree-div p{
+			font-size: 80%;
+		}
+		.div-one{
+			width: 100%;
+			height: 250px;
+			padding: 0;
+			margin: 0;
+		}
+
+/**/
+	.team{
+		height: auto;
+	}
+	.team-item img{
+		width: 60%;
+		padding: 20%;
+		border-radius: 50%;
+	}
+	.text{
+		padding: 30px;
+	}
+	.text h1{
+		font-size: 110%;
+		letter-spacing: 2px;
+	}
+	.text p{
+		font-size: 70%;
+	}
+
+/**/
+	.slider{
+		height: 50%;
+	}
+	.slider i{
+		font-size: 300%;
+
+	}
+	.slider p{
+		width: 100%;
+		font-size: 70%;
+	}
+/**/
+	.form-warp h1{
+		font-size: 110%;
+	}
+	.form-warp{
+		width: 90%;
+		padding-left: 5px;
+	}
+	
+/**/
+	footer{
+		width: 100%;
+		height: auto;
+	}
+	.footer-one{
+		display: none;
+	}
+	.footer-two i{
+		font-size: 100%;
+		padding: 15px;
+	}
+	.footer-two{
+		background-color: #212121;
+	}
+	.first{
+		padding: 10;
+		text-align: center;
+	}
